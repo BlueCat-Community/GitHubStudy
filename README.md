@@ -2,6 +2,9 @@
 This is a public repository for studying issues &amp; pull requests. <br>
 Issue와 Pull Requset를 자유롭게 테스트 해보는 Repository 입니다.
 
+# GitHub Desktop Reference
+
+[Use the GitHub Desktop client](https://idratherbewriting.com/learnapidoc/pubapis_github_desktop_client.html)
 
 ## License
 ```xml
